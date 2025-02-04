@@ -1,4 +1,2 @@
-```
 uv sync
-uv run fastapi dev
-```
+uv run fastapi run src/main.py
